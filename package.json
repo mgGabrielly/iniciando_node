@@ -1,0 +1,23 @@
+{
+  "name": "iniciando_node",
+  "version": "1.0.0",
+  "description": "teste",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mgGabrielly/iniciando_node.git"
+  },
+  "keywords": [
+    "aula",
+    "exemplo"
+  ],
+  "author": "Maria Gabrielly",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mgGabrielly/iniciando_node/issues"
+  },
+  "homepage": "https://github.com/mgGabrielly/iniciando_node#readme"
+}
